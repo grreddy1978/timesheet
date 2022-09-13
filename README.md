@@ -1,2 +1,2 @@
 # timesheet
-This is simple timesheet management with workflow enabled
+This is simple timesheet management application with workflow enabled
